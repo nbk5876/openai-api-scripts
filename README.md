@@ -29,4 +29,6 @@ The image generator Perl script requests ChatGPT to create a sea otter image.
 
 ## Logical Flow
 
+Images created using the api are stored on microsoft cloud and downloaded to the dev machine.
+
 ![API Flow Diagram](./api_flow.gif)
