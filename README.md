@@ -21,6 +21,15 @@ Then, you can run a script like so:
 
 `perl chatbot_query.pl` or `python chatbot_query.py` or `openai_image_generator.pl`
 
+<<<<<<< HEAD
 ## Script Output
 
 ![Sea Otter](./sea_otter.png)
+=======
+## Script Image Output
+
+The image generator Perl script requests ChatGPT to create a sea otter image.
+
+![Sea Otter](./sea_otter.png)
+
+>>>>>>> f586f45d50163a7131e67af5d797ca89cec0608a
