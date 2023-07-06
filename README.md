@@ -19,4 +19,9 @@ To use these scripts, you'll need to:
 
 Then, you can run a script like so:
 
-`perl chatbot_query.pl` or `python chatbot_query.py`
+`perl chatbot_query.pl` or `python chatbot_query.py` or `openai_image_generator.pl`
+
+## Script Output
+
+![Sea Otter](./sea_otter.png)
+
