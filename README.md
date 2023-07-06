@@ -27,3 +27,6 @@ The image generator Perl script requests ChatGPT to create a sea otter image.
 
 ![Sea Otter](./sea_otter.png)
 
+## Logical Flow
+
+![API Flow Diagram](./api_flow.gif)
