@@ -19,7 +19,7 @@ To use these scripts, you'll need to:
 
 Then, you can run a script like so:
 
-`perl chatbot_query.pl` or `python chatbot_query.py` or `openai_image_generator.pl`
+`perl chatbot_query.pl` or `python chatbot_query.py` or `perl openai_image_generator.pl`
 
 ## Script Image Output
 
